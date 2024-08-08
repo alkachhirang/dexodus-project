@@ -41,7 +41,7 @@ const TradingPlatform = () => {
               <Image
                 loading="lazy"
                 className="ghost max-w-[400px] absolute top-0 left-0 mix-blend-lighten z-40 rounded-[50%] lg:max-w-[507px] w-full"
-                src="/assets/images/tradingPlatform/coatMan.png"
+                src="/assets/images/tradingPlatform/coatMan.webp"
                 width={500}
                 height={500}
                 alt="ghost"
